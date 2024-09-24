@@ -1,5 +1,12 @@
-## Hi there 👋
-
+Mirko
+Technical school Cakovec
+Croatia
+- - - 
+C++
+C#
+Arduino
+Homeassistant
+IoT
 <!--
 **mj122333/mj122333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
