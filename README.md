@@ -1,4 +1,5 @@
-Mirko
+Mirko Jambrošić
+Tehnička škola Čakovec
 Technical school Cakovec
 Croatia
 - - - 
